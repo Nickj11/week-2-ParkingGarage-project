@@ -1,3 +1,4 @@
+
 class Parking_deck():
     'Parking deck floors avilable'
     def __init__(self, deck, open, payment):
@@ -54,5 +55,3 @@ class Parking_deck():
 
 
 Spaces = Parking_deck(1, "5.00", 5)
-
-
